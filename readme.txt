@@ -3,7 +3,7 @@ Contributors: CreateToday
 Tags: print, postcards, greeting cards, pdf, web to print, image to pdf, web2print, print images, gift idea
 Requires at least: 2.8
 Tested up to: 3.2.1
-Stable tag: 1.0
+Stable tag: 1.1
 
 Let users on your site create and buy postcards and greeting cards that use images from your site and get paid for every card created on your site.
 
