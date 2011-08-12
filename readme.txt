@@ -14,9 +14,9 @@ Users on your site are given a 'create' button for each image you have, letting 
 Once they click the button an overlay with the card creation tools appears in the middle of your page.
 Of course, you have the option to enable this widget only for some of the images you have on your site.
 
-Check out the [CreateToday Widget introductive video](http://player.vimeo.com/video/27493941):
+Check out the [CreateToday Widget introductive video](http://www.youtube.com/watch?v=uQwWQjVRNlk):
 
-http://player.vimeo.com/video/27493941
+http://www.youtube.com/watch?v=uQwWQjVRNlk
 
 List of features:
 
