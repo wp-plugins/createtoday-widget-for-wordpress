@@ -4,7 +4,7 @@ Plugin Name: CreateToday Widget for WordPress
 Plugin URI: http://api.createtoday.com/site/widget?utm_source=wordpress&utm_medium=plugin&utm_campaign=createtoday-widget&utm_content=v1.0
 Description: This plugin makes it simple to add the CreateToday Widget to your WordPress blog, allowing your users to create postcards and greeting cards from your site images.
 Author: CreateToday
-Version: 1.1.1
+Version: 1.2
 Requires at least: 2.8
 Author URI: http://api.createtoday.com/site/widget
 License: GPL
@@ -16,8 +16,8 @@ License: GPL
 
 if ( !class_exists( 'CreateToday_Vars' ) ) {
 	class CreateToday_Vars {
-		static $unique_id  = 'createtoday-widget';
-		static $filename   = 'createtoday-widget/createtoday-widget.php';
+		static $unique_id  = 'createtoday-widget-for-wordpress';
+		static $filename   = 'createtoday-widget-for-wordpress/createtoday-widget.php';
 		static $longname   = 'Createtoday Widget Configuration';
 		static $shortname  = 'Createtoday Widget';
 		static $homepage   = 'http://api.createtoday.com/site/widget/';
@@ -212,7 +212,7 @@ if ( is_admin() && ( !defined('DOING_AJAX') || !DOING_AJAX ) && !class_exists( '
 									$content .= '    <td><input id="api_key" name="api_key" type="text" size="20" maxlength="40" value="'.$options['api_key'].'"/></td>';
 									$content .= '</tr>';
 									$content .= '<tr>';
-									$content .= '    <td colspan="2"><small>This is the api_key you received when signing up on the CreateToday widget site. <a href="" target="_blank">Sign up now</a> and get your api_key if you didn\'t.</small></td>';
+									$content .= '    <td colspan="2"><small>This is the api_key you received when signing up on the CreateToday widget site. <a href="http://api.createtoday.com/site/widget" target="_blank">Sign up now</a> and get your api_key if you didn\'t.</small></td>';
 									$content .= '</tr>';
 									$content .= '</table>';
 
