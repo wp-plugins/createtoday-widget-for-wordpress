@@ -1,0 +1,11 @@
+.ctd-wdg-img-wrap {
+	overflow: hidden;
+}
+.ctd-wdg-img-wrap img {
+	margin: 0;
+}
+.ctd-wdg-img-wrap.alignleft,
+.ctd-wdg-img-wrap.alignright,
+.ctd-wdg-img-wrap.aligncenter {
+    margin-bottom: 1.625em;
+}
