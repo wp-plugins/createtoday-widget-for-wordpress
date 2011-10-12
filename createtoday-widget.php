@@ -4,7 +4,7 @@ Plugin Name: CreateToday Widget for WordPress
 Plugin URI: http://api.createtoday.com/site/widget?utm_source=wordpress&utm_medium=plugin&utm_campaign=createtoday-widget&utm_content=v1.0
 Description: This plugin makes it simple to add the CreateToday Widget to your WordPress blog, allowing your users to create postcards and greeting cards from your site images.
 Author: CreateToday
-Version: 1.2
+Version: 1.3
 Requires at least: 2.8
 Author URI: http://api.createtoday.com/site/widget
 License: GPL
@@ -301,7 +301,7 @@ if ( is_admin() && ( !defined('DOING_AJAX') || !DOING_AJAX ) && !class_exists( '
 
 		function postbox_btn_style($num, $style) {
 			$content = '    <td class="ctd-btn-choices">';
-			$content .= '        <p><label><input type="radio" name="style" value="'.$num.'" '.($num == $style ? 'checked="checked"' : '').'><img src="http://tcapi.sco.ro/static/site/images/widget/buttons/'.$num.'.png"></label>';
+			$content .= '        <p><label><input type="radio" name="style" value="'.$num.'" '.($num == $style ? 'checked="checked"' : '').'><img src="http://st.ctast.com/site/images/widget/buttons/'.$num.'.png"></label>';
 			$content .= '    </td>';
 			return $content;
 		}

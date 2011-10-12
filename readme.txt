@@ -3,7 +3,7 @@ Contributors: CreateToday
 Tags: print, postcards, greeting cards, pdf, web to print, image to pdf, web2print, print images, gift idea
 Requires at least: 2.8
 Tested up to: 3.2.1
-Stable tag: 1.2
+Stable tag: 1.3
 
 Let users on your site create and buy postcards and greeting cards that use images from your site and get paid for every card created on your site.
 
@@ -14,9 +14,9 @@ Users on your site are given a 'create' button for each image you have, letting 
 Once they click the button an overlay with the card creation tools appears in the middle of your page.
 Of course, you have the option to enable this widget only for some of the images you have on your site.
 
-Check out the [CreateToday Widget introductive video](http://www.youtube.com/watch?v=uQwWQjVRNlk):
+Check out the [CreateToday Widget introductive video](http://www.youtube.com/watch?v=YBsrBvqFeHc):
 
-http://www.youtube.com/watch?v=uQwWQjVRNlk
+http://www.youtube.com/watch?v=YBsrBvqFeHc
 
 List of features:
 
@@ -62,3 +62,9 @@ Sure thing. Just set your styles in the advanced settings on the plugin page. Fo
 1. Screenshot of the basic settings panel for this plugin.
 2. Screenshot of widget on top of your site.
 3. Screenshot of how to add the create buttons per image.
+
+== Changelog ==
+
+1.3:
+  - new youtube video
+  - fixed the url for the button images
