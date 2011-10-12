@@ -13,8 +13,9 @@ The CreateToday Widget (and the WordPress plugin) allows you to monetize the ima
 Users on your site are given a 'create' button for each image you have, letting them use that image in a new postcard or greeting card.
 Once they click the button an overlay with the card creation tools appears in the middle of your page.
 Of course, you have the option to enable this widget only for some of the images you have on your site.
+And you are getting paid for each card bought from your site. Nice, eh? ;)
 
-Check out the [CreateToday Widget introductive video](http://www.youtube.com/watch?v=YBsrBvqFeHc):
+Check out the [introductive video](http://www.youtube.com/watch?v=YBsrBvqFeHc):
 
 http://www.youtube.com/watch?v=YBsrBvqFeHc
 
